@@ -5,7 +5,7 @@ You will need LabVIEW 2023 or compatible to run this code
 
 
 
-1. Open the "pentapanes demo.lvproj" in LabVIEW
+1. Open the "PentaPanes Demo.lvproj" in LabVIEW
 
 2. Open the top vi "Penta Panes Demo.vi"
 
