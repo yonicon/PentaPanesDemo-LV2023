@@ -11,4 +11,4 @@ https://github.com/yonicon/PentaPanesDemo-LV2022-64bit
 
 2. Open the top vi "Penta Panes Demo.vi"
 
-3. View the code/Run it and play around - the splitters are the white narrow lines in between the panes or near the edge of the screen.
+3. View the code/Run it and play around - the splitters are the white narrow lines in between the panes or near the edge of the panel.
