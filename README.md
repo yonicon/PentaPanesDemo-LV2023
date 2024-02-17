@@ -3,6 +3,8 @@ This class handles the automatic behavior of a graphic user interface (GUI) made
 
 You will need LabVIEW 2023 32bit or compatible to run this code
 
+for a version compatible with 2022 64bit go to 
+https://github.com/yonicon/PentaPanesDemo-LV2022-64bit
 
 
 1. Open the "PentaPanes Demo.lvproj" in LabVIEW
